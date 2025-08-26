@@ -60,3 +60,48 @@ header{
     background-color: white;
     
 }
+.courses h2{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.course-grid{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.course-card{
+    background-color: #ECF0F1;
+    padding: 20px;
+    width: 300px;
+    border-radius: 8px;
+
+
+}
+.testimonials{
+    background-color: #E8F8F5;
+    padding: 40px 0px;
+
+}
+.testimonials h2{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.testimonial-grid{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.testimonial{
+    background-color: white;
+    padding: 20px;
+    border-left: 5px solid #1abc9c;
+    width: 300px;
+    border-radius: 5px;
+}
+.footer-container{
+    background-color: #2C3E50;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 20px;
+}
